@@ -2,6 +2,8 @@
 
 SimpleID_Bot is a versatile and efficient Telegram bot designed to simplify data retrieval. With SimpleID_Bot, you can easily obtain your Telegram ID, group and topic IDs, and channel IDs without any hassle. 
 
+[Telegram](https://t.me/simpleid_bot)
+
 ## Features:
 
 -   Get Your Telegram ID: Just chat with the bot and instantly retrieve your Telegram ID.
@@ -14,6 +16,8 @@ SimpleID_Bot is a versatile and efficient Telegram bot designed to simplify data
 2. Chat with the bot to get your Telegram ID.
 3. Add SimpleID_Bot to any group chat to obtain group and topic IDs.
 4. Forward a message from any channel to retrieve its ID.
+
+   ![Get Raw Data Bot - Simple ID](https://haitrieu.com/wp-content/uploads/2023/07/dat-mua-la-co-quoc-ky-viet-nam-tai-hai-trieu.png)
 
 ## Contributing:
 
