@@ -33,4 +33,4 @@ SimpleID_Bot prioritizes user privacy and does not store any user data. Use the 
 
 ---
 
-[Telegram](https://t.me/simpleid_bot) | [Issues](https://github.com/dongphuchaitrieu/simpleid-bot/issues)
+[Telegram](https://t.me/simpleid_bot) | [Issues](https://github.com/dongphuchaitrieu/SimpleID_Bot/issues)
