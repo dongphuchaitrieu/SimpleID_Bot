@@ -31,6 +31,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 SimpleID_Bot prioritizes user privacy and does not store any user data. Use the bot responsibly and at your own risk.
 
+## Chngelog
+
+(2023/11/04) Improve stability
+
 ---
 
 [Telegram](https://t.me/simpleid_bot) | [Issues](https://github.com/dongphuchaitrieu/SimpleID_Bot/issues)
